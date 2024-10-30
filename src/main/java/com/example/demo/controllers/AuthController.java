@@ -1,7 +1,7 @@
 package com.example.demo.controllers;
 
 import com.example.demo.auth.JwtUtil;
-import com.example.demo.dao.ResponseDTOs;
+import com.example.demo.dtos.ResponseDTOs;
 import com.example.demo.models.User;
 import com.example.demo.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;

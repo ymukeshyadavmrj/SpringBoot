@@ -1,6 +1,6 @@
 package com.example.demo.controllers;
 
-import com.example.demo.dao.ResponseDTOs;
+import com.example.demo.dtos.ResponseDTOs;
 import com.example.demo.models.Product;
 import com.example.demo.services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;

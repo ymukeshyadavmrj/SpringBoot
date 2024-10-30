@@ -1,4 +1,4 @@
-package com.example.demo.dao;
+package com.example.demo.dtos;
 
 import com.example.demo.models.Product;
 import lombok.Builder;
